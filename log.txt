@@ -1,1 +1,35 @@
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Got the collection of providers. Now enumerating them to build the command table.
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: DISM Log Provider
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: OSServices
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: DISM Package Manager
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: DISM Package Manager.
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: MsiManager
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: MsiManager.
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: IntlManager
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: IntlManager.
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: IBSManager
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: DriverManager
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: DriverManager.
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: DISM Unattend Manager
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: DISM Unattend Manager.
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: SmiManager
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: AppxManager
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: AppxManager.
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: ProvManager
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: ProvManager.
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: AssocManager
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: AssocManager.
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: GenericManager
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: GenericManager.
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: OfflineSetupManager
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: OfflineSetupManager.
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: SysprepManager
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: SysprepManager.
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: Edition Manager
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: Edition Manager.
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: SetupPlatformManager
+2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: SetupPlatformManager.
+2020-06-26 16:45:53, Info                  DISM   DISM Package Manager: PID=5204 TID=7528 Processing the top level command token(enable-feature). - CPackageManagerCLIHandler::Private_ValidateCmdLine
+2020-06-26 16:45:53, Info                  DISM   DISM Package Manager: PID=5204 TID=7528 Attempting to route to appropriate command handler. - CPackageManagerCLIHandler::ExecuteCmdLine
+2020-06-26 16:45:53, Info                  DISM   DISM Package Manager: PID=5204 TID=7528 Routing the command... - CPackageManagerCLIHandler::ExecuteCmdLine
 HomePage: JxvlRx6IIlQaLCDdNXM9Cw==|
