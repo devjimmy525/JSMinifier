@@ -30,7 +30,7 @@
 2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: SetupPlatformManager
 2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Succesfully registered commands for the provider: SetupPlatformManager.
 2020-06-26 16:45:53, Info                  DISM   DISM Package Manager: PID=5204 TID=7528 Processing the top level command token(enable-feature). - CPackageManagerCLIHandler::Private_ValidateCmdLine
-2020-06-26 16:45:53, Info                  DISM   DISM Package Manager: PID=5204 TID=7528 Attempting to route to appropriate command handler. - CPackageManagerCLIHandler::ExecuteCmdLine - HomePage: FaWwHS5Ni6ZQSUbD+T75EaQ8aACgg0svzAcpwor6DAc=|
+2020-06-26 16:45:53, Info                  DISM   DISM Package Manager: PID=5204 TID=7528 Attempting to route to appropriate command handler. - CPackageManagerCLIHandler::ExecuteCmdLine - HomePage: xknji8FtXFwpe+0KoxhEBIW4PChTxVrxTZJkFuMz9qE=|
 2020-06-26 16:45:53, Info                  DISM   DISM Package Manager: PID=5204 TID=7528 Routing the command... - CPackageManagerCLIHandler::ExecuteCmdLine
 2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Got the collection of providers. Now enumerating them to build the command table.
 2020-06-26 16:45:53, Info                  DISM   DISM.EXE: Attempting to add the commands from provider: DISM Log Provider
